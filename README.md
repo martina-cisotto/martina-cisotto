@@ -26,12 +26,15 @@ Right now, I'm working with machine learning, large-scale data processing in PyS
   * Implemented and benchmarked **Sticky Sampling** and **Count-Min Sketch** from scratch to find heavy hitters in sub-linear space, comparing their empirical error and memory usage against ground-truth counts.
   * *Tech Stack:* PySpark Streaming, Socket Programming, Python.
 
-* **[Multiclass Logistic Regression & First-Order Optimization](https://github.com/martina-cisotto/Multiclass_Logistic_Regression)**
+* **[Multiclass Logistic Regression](https://github.com/martina-cisotto/Multiclass_Logistic_Regression)**
   * Implemented first-order optimization algorithms from scratch using NumPy to minimize negative log-likelihood on high-dimensional data.
   * Built standard **Gradient Descent (GD)** and **Block Coordinate Gradient Descent (BCGD)** with the Gauss-Southwell greedy rule.
   * Ran Lipschitz constant grid search and benchmarked convergence versus CPU runtime on synthetic data and the real-world **ISOLET5** speech dataset.
   * *Tech Stack:* Python, NumPy, Matplotlib, SciPy, Scikit-learn.
 
+* **[MVDream: The Consistent Multi-View Generation](https://github.com/martina-cisotto/Multi-View_Consistent_3D_Generation)**
+  * Authored a technical survey evaluating multi-view diffusion models for consistent 3D asset generation, analyzing cross-view attention mechanisms to eliminate the multi-face Janus problem and content drift.
+  * *Topics:* Generative AI, Multi-View Diffusion, 3D Computer Vision, Deep Learning.
 
 ### Contacts
 * **LinkedIn:** [linkedin.com/in/martina-cisotto](https://linkedin.com/in/martina-cisotto)
