@@ -1,16 +1,33 @@
-## Hi there 👋
+# Martina Cisotto
 
-<!--
-**martina-cisotto/martina-cisotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science Master's student with a background in Statistics. I like turning math, probability, and algorithmic theory into clean, scalable code that solves actual problems. 
 
-Here are some ideas to get you started:
+Right now, I'm working with machine learning, large-scale data processing in PySpark, and mathematical optimization. I am currently looking for a curricular internship where I can write my Master's thesis with an analytics or data science team, learn from real-world datasets, and ideally continue into a full-time role after graduating.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Areas of Expertise
+
+* **Programming & Tools:** Python (Pandas, NumPy, Scikit-learn), PySpark, R, SQL
+* **Machine Learning & AI:** Machine Learning, Deep Learning, Natural Language Processing (NLP), Numerical Optimization
+* **Quantitative & Big Data:** Statistics, Probability, Distributed Computing, Game Theory
+
+---
+
+### Key Projects
+
+* **Distributed Fair k-Center Clustering (PySpark)**
+  * Built **MRFairFFT**, a two-round MapReduce framework in Apache Spark to solve the k-center clustering problem under demographic group fairness constraints (`kA, kB`).
+  * Handled large-scale data across Spark partitions using a coreset approach via `mapPartitions` for local candidate extraction, followed by driver consolidation to guarantee bounded radii while avoiding demographic under-representation.
+  * *Tech Stack:* PySpark, Apache Spark, Python.
+
+* **Streaming Frequent Items Estimation (PySpark Streaming)**
+  * Developed a streaming analytics pipeline with Spark Streaming to process live network data ingested over a TCP socket.
+  * Implemented and benchmarked **Sticky Sampling** and **Count-Min Sketch** from scratch to find heavy hitters in sub-linear space, comparing their empirical error and memory usage against ground-truth counts.
+  * *Tech Stack:* PySpark Streaming, Socket Programming, Python.
+
+* **Multiclass Logistic Regression & First-Order Optimization**
+  * Implemented first-order optimization algorithms from scratch using NumPy to minimize negative log-likelihood on high-dimensional data.
+  * Built standard **Gradient Descent (GD)** and **Block Coordinate Gradient Descent (BCGD)** with the Gauss-Southwell greedy rule.
+  * Ran Lipschitz constant grid search and benchmarked convergence versus CPU runtime on synthetic data and the real-world **ISOLET5** speech dataset.
+  * *Tech Stack:* Python, NumPy, Matplotlib, SciPy, Scikit-learn.
