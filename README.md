@@ -36,6 +36,8 @@ Right now, I'm working with machine learning, large-scale data processing in PyS
   * Authored a technical survey evaluating multi-view diffusion models for consistent 3D asset generation, analyzing cross-view attention mechanisms to eliminate the multi-face Janus problem and content drift.
   * *Topics:* Generative AI, Multi-View Diffusion, 3D Computer Vision, Deep Learning.
 
+---
+
 ### Contacts
 * **LinkedIn:** [linkedin.com/in/martina-cisotto](https://linkedin.com/in/martina-cisotto)
 * **Email:** cisotto.martina@gmail.com
