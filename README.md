@@ -1,16 +1,15 @@
 # Martina Cisotto
 
 Data Science Master's student with a background in Statistics. I like turning math, probability, and algorithmic theory into clean, scalable code that solves actual problems. 
-
 Right now, I'm working with machine learning, large-scale data processing in PySpark, and mathematical optimization. I am currently looking for a curricular internship where I can write my Master's thesis with an analytics or data science team, learn from real-world datasets, and ideally continue into a full-time role after graduating.
 
 ---
 
 ### Skills
 
-* **Programming & Tools:** Python (Pandas, NumPy, Scikit-learn), PySpark, R, SQL
+* **Programming & Tools:** Python (Pandas, NumPy, Scikit-learn), PySpark, R, SQL, Excel
 * **Machine Learning & AI:** Machine Learning, Deep Learning, Natural Language Processing (NLP), Numerical Optimization
-* **Quantitative & Big Data:** Statistics, Probability, Distributed Computing, Game Theory
+* **Quantitative & Big Data:** Statistics, Probability, Distributed Computing, Game Theory, Economics
 
 ---
 
