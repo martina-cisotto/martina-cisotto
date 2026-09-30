@@ -39,4 +39,3 @@ Right now, I'm working with machine learning, large-scale data processing in PyS
 
 ### Contacts
 * **LinkedIn:** [linkedin.com/in/martina-cisotto](https://linkedin.com/in/martina-cisotto)
-* **Email:** cisotto.martina@gmail.com
